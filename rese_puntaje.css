@@ -1,0 +1,19 @@
+.tituloprincipal{
+    text-align: center;
+}
+.info {
+    text-align: center;
+    margin-top: 10%;
+}
+.imagensalida {
+    text-align: right;
+    margin-right: 10%;
+}
+.button {
+    text-align: right;
+    margin-right: 10%;
+}
+.imagenretorno {
+    text-align: left;
+    margin-left: 10%;
+}
